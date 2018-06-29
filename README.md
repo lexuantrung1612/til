@@ -103,6 +103,10 @@ Thanks.
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
 
+### Heroku
+
+- [Git](heroku/git.md)
+
 ### JavaScript
 
 - [Accessing Arguments To A Function](javascript/accessing-arguments-to-a-function.md)
@@ -160,6 +164,7 @@ Thanks.
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
+- [Kill](linux/kill-process.md)
 
 ### MySQL
 
@@ -363,6 +368,8 @@ Thanks.
 - [String Interpolation With Integers And Sprintf](reason/string-interpolation-with-integers-and-sprintf.md)
 - [String Interpolation With Quoted Strings](reason/string-interpolation-with-quoted-strings.md)
 
+### Regex
+- [Common](regex/common.md)
 ### Ruby
 
 - [Are They All True?](ruby/are-they-all-true.md)
@@ -395,6 +402,7 @@ Thanks.
 - [Limit Split](ruby/limit-split.md)
 - [Listing Local Variables](ruby/listing-local-variables.md)
 - [Mocking Requests With Partial URIs Using Regex](ruby/mocking-requests-with-partial-uris-using-regex.md)
+- [Multi_thread](ruby/multi_thread.md)
 - [Navigate Back In The Browser With Capybara](ruby/navigate-back-in-the-browser-with-capybara.md)
 - [Next And Previous Floats](ruby/next-and-previous-floats.md)
 - [Or Operator Precedence](ruby/or-operator-precedence.md)
@@ -480,6 +488,7 @@ Thanks.
 - [Create A New Directory In netrw](vim/create-a-new-directory-in-netrw.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
 - [Creating Non-Existent Directories](vim/creating-non-existent-directories.md)
+- [ctags](vim/ctags.md)
 - [Default netrw To Tree Liststyle](vim/default-netrw-to-tree-liststyle.md)
 - [Delete Every Other Line](vim/delete-every-other-line.md)
 - [Delete Lines That Match A Pattern](vim/delete-lines-that-match-a-pattern.md)
