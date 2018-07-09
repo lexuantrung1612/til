@@ -480,6 +480,7 @@ Thanks.
 - [Create A New Directory In netrw](vim/create-a-new-directory-in-netrw.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
 - [Creating Non-Existent Directories](vim/creating-non-existent-directories.md)
+- [ctags](vim/ctags.md)
 - [Default netrw To Tree Liststyle](vim/default-netrw-to-tree-liststyle.md)
 - [Delete Every Other Line](vim/delete-every-other-line.md)
 - [Delete Lines That Match A Pattern](vim/delete-lines-that-match-a-pattern.md)
