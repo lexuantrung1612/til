@@ -103,6 +103,10 @@ Thanks.
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
 
+### Heroku
+
+- [Git](heroku/git.md)
+
 ### JavaScript
 
 - [Accessing Arguments To A Function](javascript/accessing-arguments-to-a-function.md)
