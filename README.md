@@ -164,6 +164,7 @@ Thanks.
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
+- [Kill](linux/kill-process.md)
 
 ### MySQL
 
@@ -367,6 +368,8 @@ Thanks.
 - [String Interpolation With Integers And Sprintf](reason/string-interpolation-with-integers-and-sprintf.md)
 - [String Interpolation With Quoted Strings](reason/string-interpolation-with-quoted-strings.md)
 
+### Regex
+- [Common](regex/common.md)
 ### Ruby
 
 - [Are They All True?](ruby/are-they-all-true.md)
