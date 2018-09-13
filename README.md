@@ -105,6 +105,7 @@ Thanks.
 - [What Changed?](git/what-changed.md)
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
+- [Common](git/common.md)
 
 ### Heroku
 
