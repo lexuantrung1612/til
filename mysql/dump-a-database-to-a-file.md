@@ -20,3 +20,9 @@ a space-separated list of database names. Or dump all of them with
 `--all-databases`.
 
 See `man mysqldump` for more details.
+
+-- restore mysql
+```
+use database;
+source /path/backup.sql # restore mysql .sql file
+```

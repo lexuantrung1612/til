@@ -25,6 +25,7 @@ Thanks.
 * [Vim](#vim)
 * [Webpack](#webpack)
 * [Book](#book)
+* [Ftp](#ftp)
 
 ---
 
@@ -44,6 +45,8 @@ Thanks.
 - [Lighten And Darken With SCSS](css/lighten-and-darken-with-scss.md)
 - [Parameterized SCSS Mixins](css/parameterized-scss-mixins.md)
 
+### CSS
+- [Download file](ftp/down_file.md)
 
 ### Git
 
@@ -102,6 +105,11 @@ Thanks.
 - [What Changed?](git/what-changed.md)
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
+- [Common](git/common.md)
+
+### Heroku
+
+- [Git](heroku/git.md)
 
 ### Heroku
 
@@ -370,9 +378,10 @@ Thanks.
 
 ### Regex
 - [Common](regex/common.md)
-### Ruby
 
+### Ruby
 - [Are They All True?](ruby/are-they-all-true.md)
+- [Auto correct rubocop](ruby/auto-correct-rubocop.md)
 - [Assoc For Hashes](ruby/assoc-for-hashes.md)
 - [Block Comments](ruby/block-comments.md)
 - [Chaining Multiple RSpec Change Matchers](ruby/chaining-multiple-rspec-change-matchers.md)
@@ -434,6 +443,8 @@ Thanks.
 - [Use dotenv In A Non-Rails Project](ruby/use-dotenv-in-a-non-rails-project.md)
 - [Who Are My Ancestors?](ruby/who-are-my-ancestors.md)
 - [Zero Padding](ruby/zero-padding.md)
+### Ruby oop
+- [Interfacet](ruby/oop/interface.md)
 
 ### tmux
 
