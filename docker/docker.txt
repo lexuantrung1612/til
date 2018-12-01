@@ -1,0 +1,61 @@
+# status
+sudo systemctl status docker
+_______________________________________________
+# docker command
+docker [option] [command] [arguments]
+_______________________________________________
+# Give permission for user
+sudo usermod -aG docker ${user}
+su - ${user}
+_______________________________________________
+# View all images in docker-hub local
+docker images
+# List docker container
+docker ps
+_______________________________________________
+# Running a Docker container
+docker run -it ${imgage- ubuntu}
+function car_up {
+   docker-compose up
+}
+
+# Down all car services (app + api + solr + redis)
+function car_down {
+   docker-compose down
+}
+
+# View status all car services (app + api + solr + redis)
+function car_ps {
+   docker-compose ps
+}
+
+# Restart all car services (app + api + solr + redis)
+function car_restart {
+   docker-compose restart
+}
+
+# Restart app
+function car_app {
+   docker-compose restart app
+}
+
+# Restart api
+function car_api {
+   docker-compose restart api
+}
+
+docker attach cartanaapi_app_1
+docker attach cartanaapi_api_1
+docker-compose exec api rails console
+docker-compose exec api bash
+docker-compose exec solr bash
+docker-compose exec app bash
+
+# user vim in docker
+# Run with root user
+docker exec -it --user root name_container bash
+apt-get update
+apt-get install -y vim-tiny
+# Stop all container
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
