@@ -173,6 +173,7 @@ Thanks.
 - [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 - [Kill](linux/kill-process.md)
+- [Copy from ssh](linux/copy-file-from-ssh.md)
 
 ### MySQL
 
